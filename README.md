@@ -46,10 +46,6 @@ The script includes 100 different fortunes, such as:
 
 If you want to contribute to this project, feel free to fork the repository and submit a pull request. Contributions are welcome!
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
 If you have any questions or suggestions, please feel free to contact me at nandans123456321@gmail.com.
