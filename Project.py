@@ -1,7 +1,7 @@
 import random
 
 # List of 100 different fortunes
-fortunes = [
+Fortunes = [
     "You will have a great day!",
     "Something unexpected will bring you joy!",
     "You will meet someone special soon.",
@@ -102,10 +102,10 @@ fortunes = [
 ]
 
 # Generate a random lucky number and a random fortune number
-lucky_number = random.randint(1, 100)
-fortune_number = random.randint(1, 100)
+Lucky_number = random.randint(1, 100)
+Fortune_number = random.randint(1, 100)
 
 # Select the fortune text based on the fortune number
-fortune_text = fortunes[fortune_number - 1]
+Fortune_text = Fortunes[Fortune_number - 1]
 
-print(f'{fortune_text} Your lucky number is: {lucky_number}')
+print(f'{Fortune_text} Your lucky number is: {Lucky_number}')
